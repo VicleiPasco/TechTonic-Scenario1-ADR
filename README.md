@@ -2,6 +2,10 @@
 
 Architechture Decision Assignment
 
+Members:
+Viclei Pasco
+Bianca De Torres
+
 --------------------------------------------
 
 ADR-001: Native, Web, or Hybrid App
